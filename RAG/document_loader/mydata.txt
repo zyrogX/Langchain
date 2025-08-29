@@ -1,0 +1,151 @@
+Muhammad Iftikhar – Comprehensive Profile
+Personal Information
+
+Full Name: Muhammad Iftikhar
+
+Nationality: Pakistani
+
+Location: Islamabad, Pakistan
+
+Email: ifeeinai@gmail.com
+
+Education
+
+Degree: Bachelor of Science in Computer Science (Specialization: Artificial Intelligence)
+
+Institution: Barani Institute of Information and Technology (BIIT), Pakistan
+
+Expected Graduation: 2026
+
+Key Areas of Focus:
+
+Machine Learning and Deep Learning
+
+AI Engineering and AI Solutions Engineering
+
+Natural Language Processing (NLP)
+
+Computer Vision
+
+Large Language Models (LLMs)
+
+AI Agents and LangChain
+
+Career Goals
+
+Muhammad Iftikhar is pursuing a career as an AI Solutions Engineer. His timeline is carefully structured to gain expertise in AI fundamentals, advanced ML, and practical industry-level projects before graduation. His goals include:
+
+Mastering AI, Deep Learning, and LLMs.
+
+Building a strong AI project portfolio to showcase technical and problem-solving skills.
+
+Becoming market-ready by freelancing or securing job roles in AI/ML before or right after graduation.
+
+Eventually founding or scaling businesses leveraging AI technologies.
+
+Current Projects
+
+Final Year Project – AI-Driven Call Audit (AuditX)
+
+Building an AI-powered system for auditing and analyzing customer service or call center conversations.
+
+Features: Automatic call evaluation, insights, scoring, and knowledge graph integration.
+
+Stack: Flutter frontend, FastAPI backend, MySQL database.
+
+Status: UI mockups designed in Visily; backend development in progress with user registration, call upload, agent creation, and AI auditing logic.
+
+Goal: Revolutionize call center quality assurance in Pakistan with full coverage and real-time insights.
+
+AI-Powered Personal Study Assistant (Semester Project)
+
+Flutter-based app with note upload (PDF/text), AI-powered quiz generation, summarization, and local data storage using SQLite.
+
+Goal: Help students optimize their study workflow with automation and AI.
+
+Resume Screener and Job Recommendation System
+
+Inputs a resume, extracts skills, and provides job role recommendations with fit percentages.
+
+Example: AI Engineer 90%, Data Scientist 80%.
+
+Face Recognition System (Internship Project)
+
+Using models like FaceNet for detection, embeddings, and recognition.
+
+Covers end-to-end pipeline: detection, embedding generation, recognition, and deployment.
+
+Fine-Tuning LLaMA 3.2B (Research Project)
+
+Fine-tuning using PEFT (LoRA) and Unsloth on Kaggle.
+
+Dataset: "FreedomIntelligence/medical-o1-reasoning-SFT" (Hugging Face).
+
+Tracking experiments with Weights & Biases.
+
+Focus: Medical chain-of-thought reasoning tasks.
+
+Recipe App (Flutter Practice Project)
+
+Features recipe creation, dynamic ingredient input, recipe listing, favorites, and ingredient search.
+
+Database: SQLite (Sqflite package).
+
+Skills and Expertise
+
+Programming Languages: Python, Dart (Flutter), SQL, JavaScript (basic)
+
+AI/ML Frameworks & Tools:
+
+TensorFlow, PyTorch
+
+LangChain & LangGraph (LLM orchestration, AI agents)
+
+Hugging Face ecosystem
+
+Weights & Biases (experiment tracking)
+
+Databases: MySQL, SQLite
+
+Backend Development: FastAPI
+
+Frontend Development: Flutter (mobile app development)
+
+Other Tools: Git, Figma, Visily, V0.dev, Firecrawl (credits available), Modal.com (credits available)
+
+Interests and Hobbies
+
+Deep study of machine learning algorithms and their inner workings.
+
+Exploring LLM training from scratch and dataset curation.
+
+Building practical AI-based applications that can have direct market use.
+
+Experimenting with AI + Blockchain startup ideas.
+
+Creating MVPs rapidly with tools like V0.dev.
+
+Talking endlessly about coding and AI research.
+
+Health and Personal Development Goals
+
+Muhammad is also working on his personal well-being alongside his career goals. Current focus includes:
+
+Improving testosterone levels and physical strength.
+
+Restoring facial glow and reducing dark circles.
+
+Increasing energy and maintaining good blood circulation.
+
+Balancing long laptop hours with better health routines.
+
+Startup Vision
+
+Muhammad Iftikhar is the Founder of AuditX, an AI-powered call audit startup that aims to transform quality assurance for call centers in Pakistan and beyond.
+
+Vision: Deliver real-time, AI-based auditing for multilingual call centers (Urdu + English).
+
+Pricing and Business Model: Currently exploring agent-based or call-center-size-based pricing to maximize adoption in Pakistan.
+
+Pitching: Participating in NASTP Regional 9 Cohort 3 program for support, mentorship, and exposure.
+
